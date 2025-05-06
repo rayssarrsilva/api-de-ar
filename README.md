@@ -4,9 +4,16 @@
 Este projeto utiliza a **API WAQI** para obter o Índice de Qualidade do Ar (AQI) de 10 cidades brasileiras, coletando os dados e montando um ranking baseado na qualidade do ar.
 
 ## 🚀 Tecnologias Utilizadas
-- **Python 3**
-- **Requests** (requisições HTTP)
-- **JSON** (manipulação de dados retornados pela API)
+-  Python
+-  Requests
+-  API REST (WAQI)
+-  JSON
+-  HTTP
+-  Estruturas de Controle
+-  Listas
+-  Tuplas
+
+
 
 ## ⚙️ Como Executar
 1. **Clonar o repositório:**
